@@ -20,6 +20,8 @@
 ## Step 5 TBD
 
 # QUESTS
+<img width="26" height="26" alt="image" src="https://github.com/user-attachments/assets/1919ec8e-3b26-43c6-b2b9-a5d1c369ee23" /> bedeutet, Allianz-Only. Für uns irrelevant.
+
 ## Ragefire Chasm
 <img width="1237" height="549" alt="image" src="https://github.com/user-attachments/assets/fa3a0b63-87b8-405a-9407-5dbaf8da2118" />
 https://www.wowhead.com/forever/guide/ragefire-chasm-dungeon-overview-location-rewards#quests
