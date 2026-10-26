@@ -18,3 +18,20 @@
 - Razorfen Kraul (30-40)
 
 ## Step 5 TBD
+
+# QUESTS
+## Ragefire Chasm
+<img width="1237" height="549" alt="image" src="https://github.com/user-attachments/assets/fa3a0b63-87b8-405a-9407-5dbaf8da2118" />
+https://www.wowhead.com/forever/guide/ragefire-chasm-dungeon-overview-location-rewards#quests
+
+## Ruins of Lordaeron
+<img width="1217" height="975" alt="image" src="https://github.com/user-attachments/assets/2196be4f-bc35-420c-86ae-a4ad7ade0d0e" />
+https://www.wowhead.com/forever/guide/ruins-of-lordaeron-dungeon-overview-location-rewards#quests
+
+## Wailing Caverns
+<img width="1102" height="741" alt="image" src="https://github.com/user-attachments/assets/05278ad6-aa91-4ba8-844a-3f8d4544308f" />
+https://www.wowhead.com/forever/guide/wailing-caverns-dungeon-overview-location-rewards#quests
+
+## Shadowfang Keep
+<img width="1104" height="746" alt="image" src="https://github.com/user-attachments/assets/9df1d84a-207b-468c-9731-d30bec29b789" />
+https://www.wowhead.com/forever/guide/shadowfang-keep-dungeon-overview-location-rewards#quests
